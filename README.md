@@ -1,2 +1,2 @@
 # sobre_mim
-apresentação pessoal 
+repositório para o arquivo de apresentação pessoal 
